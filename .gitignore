@@ -10,7 +10,7 @@ bin-release/
 # Executables
 *.swf
 *.air
-*.opuxl.visa
+*.opauxl.visa
 *.apk
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
